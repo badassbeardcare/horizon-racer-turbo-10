@@ -1,0 +1,15 @@
+/* ======================= css/style.css ==================== */
+html,body {
+  margin:0;
+  padding:0;
+  background:#000;
+  overflow:hidden;
+  font-family:"Press Start 2P", monospace;
+  color:#fff;
+}
+#game-container {
+  width:100vw; height:100vh;
+}
+
+/* optional arcade font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
